@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">Enter A Keyword</string>
+    <string name="submit">Search</string>
+    <string name="search">Search for Tweets</string>
+    <string name="title_activity_more_details">More Details</string>
+</resources>
